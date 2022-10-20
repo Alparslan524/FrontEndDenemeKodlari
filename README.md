@@ -1,0 +1,8 @@
+# FrontEnd Deneme Kodları
+## Proje Amacı
+Patika.dev sitesinden yürüttüğüm [HTML](https://app.patika.dev/courses/html)-[CSS](https://app.patika.dev/courses/css)-[JavaScript](https://app.patika.dev/courses/javascript) eğitiminde yazmış olduğum kodların reposudur.
+*** 
+# Alparslan Aydoğan
+- [GitHub](https://github.com/Alparslan524?tab=repositories)
+- [Linkedin](https://www.linkedin.com/in/alparslan-aydoğan-6038771bb/)
+***
