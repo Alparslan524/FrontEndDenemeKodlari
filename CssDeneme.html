@@ -5,9 +5,35 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Css Öğreniyoruz</title>
+     
+
+     <link rel="stylesheet" href="Css/CssDeneme.css"> <!-- link:css  -->
+     
+     
+
+    <style>
+        p{
+            font-size: 40px;
+        }
+        /*  internal css örneği */
+        /* Dikkat!!! Önce internal css devreye girdi ve fonut 40 yaptı. Sonra 
+        inline css girdi fontu 20 yaptı */
+
+    </style>
+
 </head>
 <body>
-    <h1 style="color: red; font-size: 50px; " >Bu başlığı özelleştireceğiz</h1>
+    
+    <!-- 
+        inline CSS-> Etiketin içinde kullanılan style kodları. Mesela->  <h1 style="color:aqua " >Başlık</h1>  
+        internal CSS-> Headin içinde kullanılan style kodları. 
+        external CSS-> Başka kalsörde duran style kodları.
+    -->
+               
+    <h1 style="color: red; font-size: 60px; " >Bu başlığı inline css ile özelleştireceğiz</h1><!-- inline CSS örneği -->
+    <p style=" font-size: 20px;" >Bu yazıyı internal css ile özelleştireceğiz</p><!-- inline CSS örneği -->
+    <h2>Bu başlığı external css ile özelleştireceğiz</h2>
+
 
 
 </body>
