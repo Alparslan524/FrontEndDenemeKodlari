@@ -2,6 +2,10 @@
     text-align: center;
 }
 
+.textLeft{
+    text-align: left;
+}
+
 h1,h2,h3,h4,h5,h6{
     color: #CF0A0A;
 }
@@ -16,3 +20,65 @@ h1,h2,h3,h4,h5,h6{
 body{
     background-color: #B9FFF8;
 }
+
+.button{
+    
+    background-color: grey;
+    color: black;
+    padding: 8px 5px;
+    text-decoration: none;
+    border-radius: 15px;
+}
+
+.container{
+    width: 100%;
+    
+    margin: auto;
+    display: flex;
+}
+
+.containerLeft{
+    background-color: #91dbd4;
+    width: 50%;
+    height: 1300px;
+    padding: 5px;
+    float: left;
+    border-right-style: double;
+    
+}
+
+.containerRight{
+    background-color: #91dbd4;
+    width: 50%;
+    height: 1300px;
+    padding: 5px;
+    float: left;
+
+}
+
+
+.containerLeftElements{
+    width: 50%;
+    height: 33%;
+    /* background-color: aqua; */
+    float: left;
+    padding: 0%;
+}
+
+
+.containerRightElements{
+    width: 50%;
+    height: 33%;
+    /* background-color: rgb(28, 36, 36); */    
+    float: left;
+    padding: 0%;
+}
+
+
+/* .imageContainerRdr2{
+    padding: 0%;
+    max-width: 100%;
+    min-width: 100%;
+    background-color: burlywood;
+    
+}    */
