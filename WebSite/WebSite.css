@@ -1,3 +1,4 @@
+/*
 .textCenter{
     text-align: center;
 }
@@ -60,7 +61,7 @@ body{
 .containerLeftElements{
     width: 50%;
     height: 33%;
-    /* background-color: aqua; */
+    background-color: aqua; 
     float: left;
     padding: 0%;
 }
@@ -69,16 +70,17 @@ body{
 .containerRightElements{
     width: 50%;
     height: 33%;
-    /* background-color: rgb(28, 36, 36); */    
+     background-color: rgb(28, 36, 36); 
     float: left;
     padding: 0%;
 }
 
 
-/* .imageContainerRdr2{
+ .imageContainerRdr2{
     padding: 0%;
     max-width: 100%;
     min-width: 100%;
     background-color: burlywood;
     
-}    */
+}    
+*/
